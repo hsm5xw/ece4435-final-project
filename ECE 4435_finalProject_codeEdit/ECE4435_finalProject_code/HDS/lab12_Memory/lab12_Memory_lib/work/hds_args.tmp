@@ -1,0 +1,1 @@
+ -L lab12_Memory_lib -l transcript.txt -i -t ns -multisource_delay latest +typdelays lab12_Memory_lib.SRAM(behavior)

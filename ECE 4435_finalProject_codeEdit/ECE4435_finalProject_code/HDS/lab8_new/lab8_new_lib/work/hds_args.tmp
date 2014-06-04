@@ -1,0 +1,1 @@
+ -L lab8_new_lib -l transcript.txt -i -t ns -multisource_delay latest +typdelays lab8_new_lib.Decode_stage(Structure)

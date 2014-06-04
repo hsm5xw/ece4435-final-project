@@ -1,0 +1,1 @@
+ -L lab9_new_lib -l transcript.txt -i -t ns -multisource_delay latest +typdelays lab9_new_lib.execute_stage(struct)

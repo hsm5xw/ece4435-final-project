@@ -1,0 +1,21 @@
+--
+-- VHDL Architecture lab11_RegisterTracker_lib.Decoder.Behavior
+--
+-- Created:
+--          by - Hong.UNKNOWN (HSM)
+--          at - 12:40:50 04/18/2014
+--
+-- using Mentor Graphics HDL Designer(TM) 2013.1 (Build 6)
+--
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+USE ieee.std_logic_arith.all;
+
+ENTITY Decoder IS
+END ENTITY Decoder;
+
+--
+ARCHITECTURE Behavior OF Decoder IS
+BEGIN
+END ARCHITECTURE Behavior;
+

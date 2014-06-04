@@ -1,0 +1,250 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dC:/HDS/lab11_RegisterTracker/lab11_RegisterTracker_lib/work
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+T_opt
+V`]o;4RhAlZTcHGb0IE2<F2
+04 20 9 work registerfile_tracker structure 1
+=1-b8763fb5e08b-5357dcc9-e3-1ec8
+Z1 o-quiet -auto_acc_if_foreign -work lab11_RegisterTracker_lib -L lab11_RegisterTracker_lib
+n@_opt
+Z2 OL;O;10.2c;57
+Z3 dC:/HDS/lab11_RegisterTracker/lab11_RegisterTracker_lib/work
+!s110 1398267082
+T_opt1
+VCDeBAI_0G`EL01X1f405f1
+04 9 8 work processor behavior 1
+=1-b8763fb5e08b-53546aac-38-1f20
+R1
+n@_opt1
+R2
+R3
+!s110 1398041260
+T_opt2
+VcgFjAUZW@Mkj3E?CPL0nm2
+04 12 5 work regreadwrite mixed 1
+=1-b8763fb5e08b-5351866c-81-2334
+R1
+n@_opt2
+R2
+R3
+!s110 1397851756
+Edecoder
+Z4 w1397839279
+Z5 DPx4 ieee 11 numeric_std 0 22 WES[o8HS0jHV[MIXQk2Ha1
+Z6 DPx4 ieee 15 std_logic_arith 0 22 I`lKR?Ob>E^B_e2VdVLiQ0
+Z7 DPx3 std 6 textio 0 22 Y8d?=bLj9m4jiPLbo;>GT0
+Z8 DPx4 ieee 14 std_logic_1164 0 22 1bm?@Gd;P>[>_lN8Do9gP3
+R3
+Z9 8C:/HDS/lab11_RegisterTracker/lab11_RegisterTracker_lib/hdl/Decoder_Behavior.vhd
+Z10 FC:/HDS/lab11_RegisterTracker/lab11_RegisterTracker_lib/hdl/Decoder_Behavior.vhd
+l0
+L15
+V0aJ23Z<G4GfOV_ma6PYOT0
+Z11 OL;C;10.2c;57
+33
+Z12 !s110 1397839947
+Z13 !s108 1397839947.486000
+Z14 !s90 -work|lab11_RegisterTracker_lib|-nologo|-2008|-f|C:/Users/Hong/AppData/Local/Temp/Files0|
+Z15 !s107 C:/HDS/lab11_RegisterTracker/lab11_RegisterTracker_lib/hdl/RegisterFile_Tracker_Structure.vhd|C:/HDS/lab11_RegisterTracker/lab11_RegisterTracker_lib/hdl/RegReadWrite_Mixed.vhd|C:/HDS/lab11_RegisterTracker/lab11_RegisterTracker_lib/hdl/Decoder_Behavior.vhd|
+Z16 o-work lab11_RegisterTracker_lib -nologo -2008
+Z17 tExplicit 1
+!s100 k[EWjWP`^]a34?;RM@1Me0
+!i10b 1
+!i111 0
+Abehavior
+R5
+R6
+R7
+R8
+DEx4 work 7 decoder 0 22 0aJ23Z<G4GfOV_ma6PYOT0
+l24
+L23
+V;W>=KgO<0`fz]^7[_bdE20
+R11
+33
+R12
+R13
+R14
+R15
+R16
+R17
+!s100 <X>DM]=k5YgnOBG<zh=HT2
+!i10b 1
+!i111 0
+Eprocessor
+Z18 w1398629873
+R5
+R6
+R7
+R8
+R3
+Z19 8C:/HDS/lab11_RegisterTracker/lab11_RegisterTracker_lib/hdl/Processor_Behavior.vhd
+Z20 FC:/HDS/lab11_RegisterTracker/lab11_RegisterTracker_lib/hdl/Processor_Behavior.vhd
+l0
+L15
+VTbL11d_Mg0I83::ddS<Y>0
+R11
+33
+Z21 !s108 1398629879.609000
+Z22 !s90 -work|lab11_RegisterTracker_lib|-nologo|-2008|-f|C:/Users/Hong/AppData/Local/Temp/Files5|
+Z23 !s107 C:/HDS/lab11_RegisterTracker/lab11_RegisterTracker_lib/hdl/Processor_Behavior.vhd|
+R16
+R17
+!s100 h=5bVP2NHh;nC8QzC;HQL0
+!s110 1398629879
+!i10b 1
+!i111 0
+Abehavior
+R5
+R6
+R7
+R8
+Z24 DEx4 work 9 processor 0 22 TbL11d_Mg0I83::ddS<Y>0
+l45
+L43
+VA`3D3Sj@d8K4=Ti^i@PVh0
+R11
+33
+R21
+R22
+R23
+R16
+R17
+!s100 NDiCo3a0F;G[i`DOUT^Ld0
+!s110 1398629880
+!i10b 1
+!i111 0
+Ereg
+Z25 w1398042193
+R6
+R7
+R8
+R3
+Z26 8C:/HDS/lab11_RegisterTracker/lab11_RegisterTracker_lib/hdl/Reg_Behavior.vhd
+Z27 FC:/HDS/lab11_RegisterTracker/lab11_RegisterTracker_lib/hdl/Reg_Behavior.vhd
+l0
+L14
+V_960cQ=^1RlER0G<[Zz9k0
+R11
+33
+Z28 !s110 1398042198
+Z29 !s108 1398042198.076000
+R14
+Z30 !s107 C:/HDS/lab11_RegisterTracker/lab11_RegisterTracker_lib/hdl/Reg_Behavior.vhd|
+R16
+R17
+!s100 hOl@FTjE]TaoBKFXAbQ9S2
+!i10b 1
+!i111 0
+Abehavior
+R6
+R7
+R8
+Z31 DEx4 work 3 reg 0 22 _960cQ=^1RlER0G<[Zz9k0
+l22
+L21
+VHA3l0c9o<52F]YKHI[JAH0
+R11
+33
+R28
+R29
+R14
+R30
+R16
+R17
+!s100 VFJFdYaX:d8Mn5Jz@KMJb3
+!i10b 1
+!i111 0
+Eregisterfile_tracker
+Z32 w1398618058
+R6
+R7
+R8
+R3
+Z33 8C:/HDS/lab11_RegisterTracker/lab11_RegisterTracker_lib/hdl/RegisterFile_Tracker_Structure.vhd
+Z34 FC:/HDS/lab11_RegisterTracker/lab11_RegisterTracker_lib/hdl/RegisterFile_Tracker_Structure.vhd
+l0
+L14
+Vg`U^GU@XdL59fbCNP1jIS1
+!s100 c=`;1kI5:jKbhz^3f3POU2
+R11
+33
+Z35 !s110 1398629912
+!i10b 1
+Z36 !s108 1398629912.824000
+R22
+Z37 !s107 C:/HDS/lab11_RegisterTracker/lab11_RegisterTracker_lib/hdl/RegisterFile_Tracker_Structure.vhd|
+!i111 0
+R16
+R17
+Astructure
+R5
+R24
+R31
+R6
+R7
+R8
+Z38 DEx4 work 20 registerfile_tracker 0 22 g`U^GU@XdL59fbCNP1jIS1
+l45
+L40
+Z39 VReiYIVON@aIlBKWLn:A@N1
+Z40 !s100 A6a`EGH3HR7LEfU?_^Z@;2
+R11
+33
+R35
+!i10b 1
+R36
+R22
+R37
+!i111 0
+R16
+R17
+Eregreadwrite
+Z41 w1397851657
+R6
+R7
+R8
+R3
+Z42 8C:/HDS/lab11_RegisterTracker/lab11_RegisterTracker_lib/hdl/RegReadWrite_Mixed.vhd
+Z43 FC:/HDS/lab11_RegisterTracker/lab11_RegisterTracker_lib/hdl/RegReadWrite_Mixed.vhd
+l0
+L14
+VVTVNA9YfcKV`?Ca@gaITX2
+R11
+33
+Z44 !s108 1397855242.897000
+R14
+Z45 !s107 C:/HDS/lab11_RegisterTracker/lab11_RegisterTracker_lib/hdl/RegisterFile_Tracker_Structure.vhd|C:/HDS/lab11_RegisterTracker/lab11_RegisterTracker_lib/hdl/RegReadWrite_Mixed.vhd|
+R16
+R17
+!s100 >VSg9;_63K0ML:kaXek[j2
+!s110 1397855242
+!i10b 1
+!i111 0
+Amixed
+DEx4 work 3 reg 0 22 Ood<kHSBH@_;M@b;l^GK13
+R6
+R7
+R8
+DEx4 work 12 regreadwrite 0 22 VTVNA9YfcKV`?Ca@gaITX2
+l27
+L23
+V;S25J><9hH[DVnO9o^N`I0
+R11
+33
+R44
+R14
+R45
+R16
+R17
+!s100 d<z155kV?f_=;N0=6WmgI3
+!s110 1397855243
+!i10b 1
+!i111 0

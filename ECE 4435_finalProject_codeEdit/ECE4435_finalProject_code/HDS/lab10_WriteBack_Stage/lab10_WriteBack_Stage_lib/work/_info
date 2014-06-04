@@ -1,0 +1,69 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dC:/HDS/lab10_WriteBack_Stage/lab10_WriteBack_Stage_lib/work
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+T_opt
+VLM1FBGc:jH0]5adKDU9=_2
+Z1 04 21 6 work lab10_writeback_stage struct 1
+=1-b8763fb5e08b-5347280e-0-2534
+Z2 o-quiet -auto_acc_if_foreign -work lab10_WriteBack_Stage_lib -L lab10_WriteBack_Stage_lib
+n@_opt
+Z3 OL;O;10.2c;57
+Z4 dC:/HDS/lab10_WriteBack_Stage/lab10_WriteBack_Stage_lib/work
+!s110 1397172238
+T_opt1
+VVhdz8dU<@88cFB6bAJjL11
+R1
+=1-b8763fb5e08b-534561b5-231-1ac4
+R2
+n@_opt1
+R3
+R4
+!s110 1397055926
+Elab10_writeback_stage
+Z5 w1398229988
+Z6 DPx4 ieee 15 std_logic_arith 0 22 I`lKR?Ob>E^B_e2VdVLiQ0
+Z7 DPx3 std 6 textio 0 22 Y8d?=bLj9m4jiPLbo;>GT0
+Z8 DPx4 ieee 14 std_logic_1164 0 22 1bm?@Gd;P>[>_lN8Do9gP3
+R4
+Z9 8C:/HDS/lab10_WriteBack_Stage/lab10_WriteBack_Stage_lib/hdl/lab10_writeback_stage_struct.vhd
+Z10 FC:/HDS/lab10_WriteBack_Stage/lab10_WriteBack_Stage_lib/hdl/lab10_writeback_stage_struct.vhd
+l0
+L13
+VeODA4@AgVnXJ@AlAh84==3
+!s100 >7d;ZP;6oD]JFARG=G3ni0
+Z11 OL;C;10.2c;57
+32
+Z12 !s110 1398229989
+!i10b 1
+Z13 !s108 1398229989.531000
+Z14 !s90 -work|lab10_WriteBack_Stage_lib|-nologo|-f|C:/Users/Hong/AppData/Local/Temp/Files0|
+Z15 !s107 C:/HDS/lab10_WriteBack_Stage/lab10_WriteBack_Stage_lib/hdl/lab10_writeback_stage_struct.vhd|
+!i111 0
+Z16 o-work lab10_WriteBack_Stage_lib -nologo
+Z17 tExplicit 1
+Astruct
+Z18 DEx4 work 21 lab10_writeback_stage 0 22 eODA4@AgVnXJ@AlAh84==3
+R6
+R7
+R8
+l60
+L42
+VH6kBkJWLDR4kg14lzDE<G3
+!s100 oieY;ldZ^L<11TVA<AS=b2
+R11
+32
+R12
+!i10b 1
+R13
+R14
+R15
+!i111 0
+R16
+R17

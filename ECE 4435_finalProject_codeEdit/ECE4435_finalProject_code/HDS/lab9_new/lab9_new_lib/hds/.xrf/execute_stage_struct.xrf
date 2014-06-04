@@ -1,0 +1,482 @@
+DESIGN execute_stage
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN execute_stage
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN execute_stage
+VIEW symbol.sb
+GRAPHIC 120,0 14 0 
+DESIGN execute_stage
+VIEW symbol.sb
+GRAPHIC 125,0 15 0 
+DESIGN execute_stage
+VIEW symbol.sb
+GRAPHIC 130,0 16 0 
+DESIGN execute_stage
+VIEW symbol.sb
+GRAPHIC 135,0 17 0 
+DESIGN execute_stage
+VIEW symbol.sb
+GRAPHIC 140,0 18 0 
+DESIGN execute_stage
+VIEW symbol.sb
+GRAPHIC 827,0 19 0 
+DESIGN execute_stage
+VIEW symbol.sb
+GRAPHIC 247,0 20 0 
+DESIGN execute_stage
+VIEW symbol.sb
+GRAPHIC 145,0 21 0 
+DESIGN execute_stage
+VIEW symbol.sb
+GRAPHIC 277,0 22 0 
+DESIGN execute_stage
+VIEW symbol.sb
+GRAPHIC 242,0 23 0 
+DESIGN execute_stage
+VIEW symbol.sb
+GRAPHIC 210,0 24 0 
+DESIGN execute_stage
+VIEW symbol.sb
+GRAPHIC 185,0 25 0 
+DESIGN execute_stage
+VIEW symbol.sb
+GRAPHIC 190,0 26 0 
+DESIGN execute_stage
+VIEW symbol.sb
+GRAPHIC 195,0 27 0 
+DESIGN execute_stage
+VIEW symbol.sb
+GRAPHIC 205,0 28 0 
+DESIGN execute_stage
+VIEW symbol.sb
+GRAPHIC 200,0 29 0 
+DESIGN execute_stage
+VIEW symbol.sb
+GRAPHIC 1,0 32 0 
+DESIGN execute_stage
+VIEW symbol.sb
+GRAPHIC 1,0 33 0 
+DESIGN execute_stage
+VIEW struct.bd
+NO_GRAPHIC 36
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 42,0 45 0 
+DESIGN execute_stage
+VIEW struct.bd
+NO_GRAPHIC 48
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 0,0 51 2 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3714,0 56 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3089,0 57 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3820,0 58 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3047,0 59 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 2677,0 60 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3947,0 61 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 2435,0 62 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3949,0 63 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 2673,0 64 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 2623,0 65 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 2627,0 66 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 2629,0 67 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 2631,0 68 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 2625,0 69 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 2885,0 70 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 2877,0 71 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 2675,0 72 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 4807,0 73 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 2054,0 74 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 4809,0 75 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3738,0 76 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3732,0 77 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3726,0 78 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3814,0 79 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 2445,0 80 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 2437,0 81 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3816,0 82 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3152,0 83 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 2433,0 84 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 2453,0 85 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 1094,0 86 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 1100,0 87 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 2581,0 88 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 2587,0 89 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 2593,0 90 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 2605,0 91 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3508,0 92 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 4708,0 93 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 4714,0 94 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 1178,0 95 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 1184,0 96 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 1694,0 97 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3997,0 98 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 2802,0 99 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3202,0 100 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3502,0 101 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 1657,0 102 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3150,0 103 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 4354,0 104 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 4086,0 105 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3909,0 106 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3818,0 107 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3929,0 108 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3941,0 109 0 
+DESIGN execute_stage
+VIEW struct.bd
+NO_GRAPHIC 110
+DESIGN execute_stage
+VIEW struct.bd
+NO_GRAPHIC 153
+LIBRARY lab9_new_lib
+DESIGN mini_@a@l@u
+VIEW struct
+GRAPHIC 4247,0 155 0 
+DESIGN mini_@a@l@u
+VIEW symbol.sb
+GRAPHIC 161,0 157 0 
+DESIGN mini_@a@l@u
+VIEW symbol.sb
+GRAPHIC 156,0 158 0 
+DESIGN mini_@a@l@u
+VIEW symbol.sb
+GRAPHIC 141,0 159 0 
+DESIGN mini_@a@l@u
+VIEW symbol.sb
+GRAPHIC 146,0 160 0 
+DESIGN mini_@a@l@u
+VIEW symbol.sb
+GRAPHIC 151,0 161 0 
+DESIGN mini_@a@l@u
+VIEW symbol.sb
+GRAPHIC 196,0 162 0 
+DESIGN mini_@a@l@u
+VIEW symbol.sb
+GRAPHIC 272,0 163 0 
+DESIGN mini_@a@l@u
+VIEW symbol.sb
+GRAPHIC 307,0 164 0 
+DESIGN mini_@a@l@u
+VIEW symbol.sb
+GRAPHIC 267,0 165 0 
+DESIGN mini_@a@l@u
+VIEW symbol.sb
+GRAPHIC 262,0 166 0 
+DESIGN mini_@a@l@u
+VIEW symbol.sb
+GRAPHIC 257,0 167 0 
+DESIGN mini_@a@l@u
+VIEW symbol.sb
+GRAPHIC 277,0 168 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3887,0 171 0 
+DESIGN execute_stage
+VIEW struct.bd
+NO_GRAPHIC 178
+LIBRARY lab9_new_lib
+DESIGN execute_stage
+VIEW struct.bd
+NO_GRAPHIC 180
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 4247,0 183 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3887,0 184 0 
+DESIGN execute_stage
+VIEW struct.bd
+NO_GRAPHIC 187
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 454,0 189 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 790,0 201 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 742,0 211 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3363,0 221 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 694,0 231 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 550,0 241 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 886,0 253 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 838,0 265 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 598,0 275 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 502,0 287 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3030,0 297 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 2121,0 300 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 2219,0 303 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 2330,0 306 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 2256,0 309 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 2158,0 312 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 2293,0 315 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3171,0 318 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 1065,0 321 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 1046,0 324 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 1084,0 327 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 1027,0 330 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 4684,0 333 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 1569,0 336 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 1684,0 339 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 1227,0 342 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 1203,0 345 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 351,0 348 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 402,0 361 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 1453,0 371 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 4662,0 382 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 147,0 392 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 1351,0 403 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 249,0 414 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 1300,0 425 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 2375,0 435 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 1931,0 438 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 1009,0 450 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 2485,0 461 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 1892,0 473 0 
+DESIGN execute_stage
+VIEW struct.bd
+NO_GRAPHIC 486
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 4247,0 488 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3504,0 490 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3510,0 491 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3522,0 492 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3538,0 493 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3544,0 494 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3516,0 495 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3716,0 496 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3822,0 497 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3740,0 498 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3734,0 499 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3728,0 500 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3593,0 501 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3887,0 503 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3917,0 505 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3911,0 506 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3931,0 507 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3923,0 508 0 
+DESIGN execute_stage
+VIEW struct.bd
+GRAPHIC 3943,0 509 0 
+DESIGN execute_stage
+VIEW struct.bd
+NO_GRAPHIC 512

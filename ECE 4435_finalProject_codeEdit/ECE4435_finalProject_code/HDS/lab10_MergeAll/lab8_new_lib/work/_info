@@ -1,0 +1,261 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dC:/HDS/lab10_MergeAll/lab8_new_lib/work
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+Ealu_rom
+Z1 w1398656784
+Z2 DPx4 ieee 15 std_logic_arith 0 22 I`lKR?Ob>E^B_e2VdVLiQ0
+Z3 DPx3 std 6 textio 0 22 Y8d?=bLj9m4jiPLbo;>GT0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 1bm?@Gd;P>[>_lN8Do9gP3
+Z5 dC:/HDS/lab10_MergeAll/lab8_new_lib/work
+Z6 8C:/HDS/lab8_new/lab8_new_lib/hdl/ALU_ROM_Behavior.vhd
+Z7 FC:/HDS/lab8_new/lab8_new_lib/hdl/ALU_ROM_Behavior.vhd
+l0
+L15
+V`1Qh6jGHD0BFV=i6B4CB42
+Z8 OL;C;10.2c;57
+33
+Z9 !s110 1398776285
+Z10 !s108 1398776284.904000
+Z11 !s90 -work|lab8_new_lib|-nologo|-2008|-f|C:/Users/Hong/AppData/Local/Temp/Files6|
+Z12 !s107 C:/HDS/lab8_new/lab8_new_lib/hdl/Decode_ROM_Behavior.vhd|C:/HDS/lab8_new/lab8_new_lib/hdl/ALU_ROM_Behavior.vhd|
+Z13 o-work lab8_new_lib -nologo -2008
+Z14 tExplicit 1
+!s100 W=1JVoN1S=@anO4TIWPhG3
+!i10b 1
+!i111 0
+Abehavior
+R2
+R3
+R4
+Z15 DEx4 work 7 alu_rom 0 22 `1Qh6jGHD0BFV=i6B4CB42
+l29
+L24
+V^T@Za5TBnnmNHWYOz?BzO1
+R8
+33
+R9
+R10
+R11
+R12
+R13
+R14
+!s100 fQhQTOUIm[]i2U8@ZT=8C0
+!i10b 1
+!i111 0
+Edecode_rom
+Z16 w1398775621
+R2
+R3
+R4
+R5
+Z17 8C:/HDS/lab8_new/lab8_new_lib/hdl/Decode_ROM_Behavior.vhd
+Z18 FC:/HDS/lab8_new/lab8_new_lib/hdl/Decode_ROM_Behavior.vhd
+l0
+L23
+V;Un]iUedEAanSN:h45hWB1
+R8
+33
+R9
+R10
+R11
+R12
+R13
+R14
+!s100 KLZ0@glV_;]A`f0XLhX6D1
+!i10b 1
+!i111 0
+Abehavior
+R2
+R3
+R4
+Z19 DEx4 work 10 decode_rom 0 22 ;Un]iUedEAanSN:h45hWB1
+l34
+L30
+VlTL?3mZMA[WdVcG?E9=dN1
+R8
+33
+R9
+R10
+R11
+R12
+R13
+R14
+!s100 F;_gj5k1N7IoGjbUgPFYZ1
+!i10b 1
+!i111 0
+Edecode_stage
+Z20 w1398651583
+R2
+R3
+R4
+R5
+Z21 8C:/HDS/lab8_new/lab8_new_lib/hdl/Decoder_Structure.vhd
+Z22 FC:/HDS/lab8_new/lab8_new_lib/hdl/Decoder_Structure.vhd
+l0
+L14
+V<:5BGGHDJ<24FB:cWFCJ;1
+!s100 gY28=Be8E3?n3GhB;ZQF=0
+R8
+31
+Z23 !s110 1398776288
+!i10b 1
+Z24 !s108 1398776288.578000
+Z25 !s90 -work|lab8_new_lib|-nologo|-93|-f|C:/Users/Hong/AppData/Local/Temp/Files9|
+Z26 !s107 C:/HDS/lab8_new/lab8_new_lib/hdl/Decoder_Structure.vhd|
+!i111 0
+Z27 o-work lab8_new_lib -nologo -93
+R14
+Astructure
+Z28 DEx4 work 10 simplemux4 0 22 OWe?T_lYUkWh=inWe:moL0
+Z29 DEx4 work 10 simplemux2 0 22 _1ao8B58nEX8S0ijU?anz0
+R19
+R15
+Z30 DEx4 work 3 reg 0 22 JST0Rj2;Jgcl662bWSfQ:0
+R2
+R3
+R4
+DEx4 work 12 decode_stage 0 22 <:5BGGHDJ<24FB:cWFCJ;1
+l94
+L45
+V[]I`aRK_QmbU2`292e<LD2
+!s100 Id8;6YBjFZ5LM>>HC48942
+R8
+31
+R23
+!i10b 1
+R24
+R25
+R26
+!i111 0
+R27
+R14
+Ereg
+Z31 w1398229362
+R2
+R3
+R4
+R5
+Z32 8C:/HDS/lab8_new/lab8_new_lib/hdl/Reg_Behavior.vhd
+Z33 FC:/HDS/lab8_new/lab8_new_lib/hdl/Reg_Behavior.vhd
+l0
+L15
+VJST0Rj2;Jgcl662bWSfQ:0
+R8
+31
+Z34 !s110 1398776286
+Z35 !s108 1398776286.189000
+Z36 !s90 -work|lab8_new_lib|-nologo|-93|-f|C:/Users/Hong/AppData/Local/Temp/Files7|
+Z37 !s107 C:/HDS/lab8_new/lab8_new_lib/hdl/Reg_Behavior.vhd|
+R27
+R14
+!s100 m7>YQcKLOQUgF6z`5WfmW1
+!i10b 1
+!i111 0
+Abehavior
+R2
+R3
+R4
+R30
+l23
+L22
+VdO8`_>SEIKMF^Abm3jjSR0
+R8
+31
+R34
+R35
+R36
+R37
+R27
+R14
+!s100 473ED@dXJzOO5bCf>fjLY3
+!i10b 1
+!i111 0
+Esimplemux2
+Z38 w1396405706
+R2
+R3
+R4
+R5
+Z39 8C:/HDS/lab8_new/lab8_new_lib/hdl/SimpleMux2_Behavior.vhd
+Z40 FC:/HDS/lab8_new/lab8_new_lib/hdl/SimpleMux2_Behavior.vhd
+l0
+L15
+V_1ao8B58nEX8S0ijU?anz0
+R8
+31
+Z41 !s110 1398776283
+Z42 !s108 1398776283.621000
+Z43 !s90 -work|lab8_new_lib|-nologo|-93|-f|C:/Users/Hong/AppData/Local/Temp/Files5|
+Z44 !s107 C:/HDS/lab8_new/lab8_new_lib/hdl/SimpleMux2_Behavior.vhd|
+R27
+R14
+!s100 F02VKlOWC9lKGUKaN3NaI2
+!i10b 1
+!i111 0
+Abehavior
+R2
+R3
+R4
+R29
+l25
+L24
+VA2i21_<SBZ4KYR[>8?W2m0
+R8
+31
+R41
+R42
+R43
+R44
+R27
+R14
+!s100 ?ii<aTmdNiL]:0X9SgaAe3
+!i10b 1
+!i111 0
+Esimplemux4
+Z45 w1396405600
+R2
+R3
+R4
+R5
+Z46 8C:/HDS/lab8_new/lab8_new_lib/hdl/SimpleMux4_Behavior.vhd
+Z47 FC:/HDS/lab8_new/lab8_new_lib/hdl/SimpleMux4_Behavior.vhd
+l0
+L19
+VOWe?T_lYUkWh=inWe:moL0
+R8
+33
+Z48 !s110 1398776287
+Z49 !s108 1398776287.397000
+Z50 !s90 -work|lab8_new_lib|-nologo|-2008|-f|C:/Users/Hong/AppData/Local/Temp/Files8|
+Z51 !s107 C:/HDS/lab8_new/lab8_new_lib/hdl/SimpleMux4_Behavior.vhd|
+R13
+R14
+!s100 :Y3LijXf4N3Hgoch;GEhC2
+!i10b 1
+!i111 0
+Abehavior
+R2
+R3
+R4
+R28
+l30
+L29
+Vl=l`IcfX8LPIT5:?5aRmk3
+R8
+33
+R48
+R49
+R50
+R51
+R13
+R14
+!s100 S;eU=C4Y`eA7d0]k^BgO[2
+!i10b 1
+!i111 0

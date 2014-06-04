@@ -1,0 +1,14 @@
+[ModelSim]
+lab10_memory_stage_lib = $HDS_PROJECT_DIR\lab10_memory_stage_lib\work
+[hdl]
+lab10_memory_stage_lib = $HDS_PROJECT_DIR/lab10_memory_stage_lib/hdl
+[hds]
+lab10_memory_stage_lib = $HDS_PROJECT_DIR/lab10_memory_stage_lib/hds
+[hds_settings]
+default_library = lab10_memory_stage_lib
+project_description = ECE 4435 lab 10 memory stage
+version = 2
+[library_type]
+lab10_memory_stage_lib = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp

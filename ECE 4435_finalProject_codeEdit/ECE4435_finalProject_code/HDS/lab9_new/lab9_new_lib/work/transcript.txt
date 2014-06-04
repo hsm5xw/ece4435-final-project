@@ -1,0 +1,151 @@
+# //  ModelSim SE-64 10.2c Jul 19 2013 
+# //
+# //  Copyright 1991-2013 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# vsim -L lab9_new_lib -l transcript.txt -i -multisource_delay latest -t ns +typdelays lab9_new_lib.execute_stage(struct) 
+# ** Note: (vsim-3812) Design is being optimized...
+# 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading work.execute_stage(struct)#1
+# Loading work.mini_alu(struct)#1
+# Loading work.mini_shifter(behavior)#1
+add wave  \
+sim:/execute_stage/Control \
+sim:/execute_stage/Dest \
+sim:/execute_stage/Extra \
+sim:/execute_stage/L \
+sim:/execute_stage/R \
+sim:/execute_stage/can_move_on \
+sim:/execute_stage/clk \
+sim:/execute_stage/pcval \
+sim:/execute_stage/rst \
+sim:/execute_stage/stall \
+sim:/execute_stage/Control_Out \
+sim:/execute_stage/Dest_Execute_Out \
+sim:/execute_stage/Extra_Execute_Out \
+sim:/execute_stage/Result \
+sim:/execute_stage/jaddress \
+sim:/execute_stage/jump \
+sim:/execute_stage/ALU_Result \
+sim:/execute_stage/ALU_cin_Control \
+sim:/execute_stage/ALU_cout \
+sim:/execute_stage/ALU_mode_Control \
+sim:/execute_stage/Additional_Execute_Control \
+sim:/execute_stage/Carry_CCR_In \
+sim:/execute_stage/Carry_CCR_Out \
+sim:/execute_stage/Carry_CCR_enable \
+sim:/execute_stage/Control_Register_Out \
+sim:/execute_stage/Dest_Register_Out \
+sim:/execute_stage/Dest_bit10 \
+sim:/execute_stage/Dest_bit11 \
+sim:/execute_stage/Dest_bit12 \
+sim:/execute_stage/Dest_bit9 \
+sim:/execute_stage/Enable_Carry_CCR \
+sim:/execute_stage/Enable_VNZ_CCR \
+sim:/execute_stage/Execute_Control \
+sim:/execute_stage/Is_JAL \
+sim:/execute_stage/Is_Jumps \
+sim:/execute_stage/Is_negative \
+sim:/execute_stage/Is_ovfl \
+sim:/execute_stage/Is_zero \
+sim:/execute_stage/Jump_or_Branch \
+sim:/execute_stage/L_Register_Out \
+sim:/execute_stage/Negative_CCR_Out \
+sim:/execute_stage/Overflow_CCR_Out \
+sim:/execute_stage/R_Register_Out \
+sim:/execute_stage/Result_Intermediate \
+sim:/execute_stage/VNZ_CCR_enable \
+sim:/execute_stage/Zero_CCR_Out \
+sim:/execute_stage/dout \
+sim:/execute_stage/dout1 \
+sim:/execute_stage/dout13 \
+sim:/execute_stage/dout14 \
+sim:/execute_stage/dout15 \
+sim:/execute_stage/dout16 \
+sim:/execute_stage/dout6 \
+sim:/execute_stage/dout7 \
+sim:/execute_stage/dout8 \
+sim:/execute_stage/dout9 \
+sim:/execute_stage/from_Shifter_Control \
+sim:/execute_stage/load_enable \
+sim:/execute_stage/next_pc_val \
+sim:/execute_stage/operation \
+sim:/execute_stage/pcval_Register_Out \
+sim:/execute_stage/shifter_Out \
+sim:/execute_stage/to_Carry_CCR \
+sim:/execute_stage/mw_Carry_CCR_Registerreg_cval \
+sim:/execute_stage/mw_Control_Registerreg_cval \
+sim:/execute_stage/mw_Dest_Registerreg_cval \
+sim:/execute_stage/mw_Extra_Registerreg_cval \
+sim:/execute_stage/mw_L_Registerreg_cval \
+sim:/execute_stage/mw_Negative_CCR_Registerreg_cval \
+sim:/execute_stage/mw_Overflow_CCR_Registerreg_cval \
+sim:/execute_stage/mw_R_Registerreg_cval \
+sim:/execute_stage/mw_Zero_CCR_Registerreg_cval \
+sim:/execute_stage/mw_pcval_Registerreg_cval \
+sim:/execute_stage/mw_Additional_Execute_Control_Splittertemp_din \
+sim:/execute_stage/mw_Control_Splittertemp_din \
+sim:/execute_stage/mw_Dest_Splittertemp_din \
+sim:/execute_stage/mw_Execute_Control_Splittertemp_din \
+sim:/execute_stage/dout4 \
+sim:/execute_stage/dout3 \
+sim:/execute_stage/dout2
+force -freeze sim:/execute_stage/L 16'h0100 0
+force -freeze sim:/execute_stage/R 16'h000C 0
+force -freeze sim:/execute_stage/Control 16'h8442 0
+force -freeze sim:/execute_stage/clk 1 0, 0 {50 ns} -r 100
+force -freeze sim:/execute_stage/can_move_on 1 0
+force -freeze sim:/execute_stage/stall 0 0
+force -freeze sim:/execute_stage/rst 0 0
+force -freeze sim:/execute_stage/pcval 16'h0006 0
+force -freeze sim:/execute_stage/Dest 4'hD 0
+force -freeze sim:/execute_stage/Extra 16'hEEEE 0
+run
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /execute_stage/U_0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /execute_stage/U_0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /execute_stage/U_0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /execute_stage/U_0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /execute_stage/U_0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /execute_stage/U_0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /execute_stage/U_0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /execute_stage/U_0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /execute_stage/U_0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /execute_stage/U_0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /execute_stage/U_0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 0  Instance: /execute_stage/U_0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 1  Instance: /execute_stage/U_0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 1  Instance: /execute_stage/U_0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 1  Instance: /execute_stage/U_0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 1  Instance: /execute_stage/U_0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 1  Instance: /execute_stage/U_0
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ns  Iteration: 1  Instance: /execute_stage/U_0
+run
+run
+run
+run

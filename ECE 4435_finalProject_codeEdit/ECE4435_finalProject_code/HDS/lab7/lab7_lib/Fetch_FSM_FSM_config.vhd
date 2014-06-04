@@ -1,0 +1,4 @@
+CONFIGURATION Fetch_FSM_FSM_config OF Fetch_FSM IS
+   FOR FSM
+   END FOR;
+END Fetch_FSM_FSM_config;

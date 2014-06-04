@@ -1,0 +1,135 @@
+m255
+K4
+z2
+13
+cModel Technology
+dC:/HDS/lab10_MergeAll/lab7_lib
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+Eexecute_stage
+Z0 w1398775802
+Z1 DPx4 ieee 15 std_logic_arith 0 22 I`lKR?Ob>E^B_e2VdVLiQ0
+Z2 DPx3 std 6 textio 0 22 Y8d?=bLj9m4jiPLbo;>GT0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 1bm?@Gd;P>[>_lN8Do9gP3
+Z4 dC:/HDS/lab10_MergeAll/lab9_new_lib/work
+Z5 8C:/HDS/lab9_new/lab9_new_lib/hdl/execute_stage_struct.vhd
+Z6 FC:/HDS/lab9_new/lab9_new_lib/hdl/execute_stage_struct.vhd
+l0
+L13
+Ve98UEoVo<P4W``^4MYR2Z2
+!s100 ODQ8OUGS>d?Ad`m>S]3`l0
+Z7 OL;C;10.2c;57
+31
+Z8 !s110 1398776293
+!i10b 1
+Z9 !s108 1398776292.976000
+Z10 !s90 -work|lab9_new_lib|-nologo|-93|-f|C:/Users/Hong/AppData/Local/Temp/Files12|
+Z11 !s107 C:/HDS/lab9_new/lab9_new_lib/hdl/execute_stage_struct.vhd|
+!i111 0
+Z12 o-work lab9_new_lib -nologo -93
+Z13 tExplicit 1
+Astruct
+DEx12 lab9_new_lib 12 mini_shifter 0 22 :j43@HX:V<jO35;a`1JmY1
+DEx12 lab9_new_lib 8 mini_alu 0 22 PIfzV7@]G3B8I4aO[K_Gf0
+DEx4 work 13 execute_stage 0 22 e98UEoVo<P4W``^4MYR2Z2
+R1
+R2
+R3
+l189
+L52
+VEzX2K]<ITEiNo`1i;O<G=2
+!s100 `I=M4@7b;k=_Qk5ZZ90o61
+R7
+31
+R8
+!i10b 1
+R9
+R10
+R11
+!i111 0
+R12
+R13
+Emini_alu
+Z14 w1398497668
+R1
+R2
+R3
+R4
+Z15 8C:/HDS/lab9_new/lab9_new_lib/hdl/mini_alu_struct.vhd
+Z16 FC:/HDS/lab9_new/lab9_new_lib/hdl/mini_alu_struct.vhd
+l0
+L13
+VPIfzV7@]G3B8I4aO[K_Gf0
+R7
+31
+Z17 !s110 1398776290
+Z18 !s108 1398776290.274000
+Z19 !s90 -work|lab9_new_lib|-nologo|-93|-f|C:/Users/Hong/AppData/Local/Temp/Files10|
+Z20 !s107 C:/HDS/lab9_new/lab9_new_lib/hdl/mini_alu_struct.vhd|
+R12
+R13
+!s100 0I67aR3oagnV:OaZ@z<SI3
+!i10b 1
+!i111 0
+Astruct
+DEx4 work 8 mini_alu 0 22 PIfzV7@]G3B8I4aO[K_Gf0
+R1
+R2
+R3
+l67
+L47
+VY^X14acI?ABVE[BBT48KO3
+R7
+31
+R17
+R18
+R19
+R20
+R12
+R13
+!s100 2B2UW<11Q7Dcg1CBl]=iO0
+!i10b 1
+!i111 0
+Emini_shifter
+Z21 w1398185944
+R1
+R2
+R3
+R4
+Z22 8C:/HDS/lab9_new/lab9_new_lib/hdl/mini_Shifter_Behavior.vhd
+Z23 FC:/HDS/lab9_new/lab9_new_lib/hdl/mini_Shifter_Behavior.vhd
+l0
+L14
+V:j43@HX:V<jO35;a`1JmY1
+R7
+33
+Z24 !s110 1398776291
+Z25 !s108 1398776291.689000
+Z26 !s90 -work|lab9_new_lib|-nologo|-2008|-f|C:/Users/Hong/AppData/Local/Temp/Files11|
+Z27 !s107 C:/HDS/lab9_new/lab9_new_lib/hdl/mini_Shifter_Behavior.vhd|
+Z28 o-work lab9_new_lib -nologo -2008
+R13
+!s100 6d7XYi;5I:Q;FVHDFMLZf3
+!i10b 1
+!i111 0
+Abehavior
+R1
+R2
+R3
+DEx4 work 12 mini_shifter 0 22 :j43@HX:V<jO35;a`1JmY1
+l29
+L28
+V44e;6l8QXj^o1cARol5VD0
+R7
+33
+R24
+R25
+R26
+R27
+R28
+R13
+!s100 GnGKH?Zg1HiTfjb_5B4Vk2
+!i10b 1
+!i111 0

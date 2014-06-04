@@ -1,0 +1,14 @@
+[ModelSim]
+lab9_new_lib = $HDS_PROJECT_DIR\lab9_new_lib\work
+[hdl]
+lab9_new_lib = $HDS_PROJECT_DIR/lab9_new_lib/hdl
+[hds]
+lab9_new_lib = $HDS_PROJECT_DIR/lab9_new_lib/hds
+[hds_settings]
+default_library = lab9_new_lib
+project_description = ECE 4435 lab 9 Execute Stage (working again after the accidental file deletes)
+version = 2
+[library_type]
+lab9_new_lib = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp

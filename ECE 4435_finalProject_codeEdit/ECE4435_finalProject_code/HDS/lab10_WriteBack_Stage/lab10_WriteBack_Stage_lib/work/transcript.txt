@@ -1,0 +1,37 @@
+# //  ModelSim SE-64 10.2c Jul 19 2013 
+# //
+# //  Copyright 1991-2013 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# vsim -L lab10_WriteBack_Stage_lib -l transcript.txt -i -multisource_delay latest -t ns +typdelays lab10_WriteBack_Stage_lib.lab10_WriteBack_Stage(struct) 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading work.lab10_writeback_stage(struct)#1
+add wave  \
+sim:/lab10_writeback_stage/Control \
+sim:/lab10_writeback_stage/Dest \
+sim:/lab10_writeback_stage/Value \
+sim:/lab10_writeback_stage/clk \
+sim:/lab10_writeback_stage/Control_toRegFile \
+sim:/lab10_writeback_stage/Dest_toRegFile \
+sim:/lab10_writeback_stage/Value_toRegFile \
+sim:/lab10_writeback_stage/load_enable \
+sim:/lab10_writeback_stage/mw_U_0reg_cval \
+sim:/lab10_writeback_stage/mw_U_1reg_cval \
+sim:/lab10_writeback_stage/mw_U_2reg_cval
+force -freeze sim:/lab10_writeback_stage/Control 0 0
+force -freeze sim:/lab10_writeback_stage/Dest 4'hD 0
+force -freeze sim:/lab10_writeback_stage/Value 16'hAAAA 0
+force -freeze sim:/lab10_writeback_stage/clk 1 0, 0 {50 ns} -r 100
+run
+run
+run
+run

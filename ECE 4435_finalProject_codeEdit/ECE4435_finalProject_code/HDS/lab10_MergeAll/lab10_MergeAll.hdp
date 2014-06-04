@@ -1,0 +1,81 @@
+[ModelSim]
+lab10_memory_stage_lib = $HDS_PROJECT_DIR/lab10_memory_stage_lib/work
+lab10_MergeAll_lib = $HDS_PROJECT_DIR/lab10_MergeAll_lib/work
+lab10_RAM_lib = $HDS_PROJECT_DIR/lab10_RAM_lib/work
+lab10_RegFile_lib = $HDS_PROJECT_DIR/lab10_RegFile_lib/work
+lab10_TopLevel_lib = $HDS_PROJECT_DIR/lab10_TopLevel_lib/work
+lab10_WriteBack_Stage_lib = $HDS_PROJECT_DIR/lab10_WriteBack_Stage_lib/work
+lab11_MemoryArbiter_lib = $HDS_PROJECT_DIR/lab11_MemoryArbiter_lib/work
+lab11_RegisterTracker_lib = $HDS_PROJECT_DIR/lab11_RegisterTracker_lib/work
+lab12_Memory_lib = $HDS_PROJECT_DIR/lab12_Memory_lib/work
+lab7_lib = $HDS_PROJECT_DIR/lab7_lib/work
+lab8_new_lib = $HDS_PROJECT_DIR/lab8_new_lib/work
+lab9_lib = $HDS_PROJECT_DIR/lab9_lib/work
+lab9_new_lib = $HDS_PROJECT_DIR/lab9_new_lib/work
+[hdl]
+lab10_memory_stage_lib = C:/HDS/lab10_memory_stage/lab10_memory_stage_lib/hdl
+lab10_MergeAll_lib = C:/HDS
+lab10_RAM_lib = C:/HDS/lab10_RAM/lab10_RAM_lib/hdl
+lab10_RegFile_lib = C:/HDS/lab10_RegFile/lab10_RegFile_lib/hdl
+lab10_RegFileCopy_lib = $HDS_PROJECT_DIR/lab7_lib
+lab10_TopLevel_lib = $HDS_PROJECT_DIR/lab10_TopLevel_lib/hdl
+lab10_WriteBack_Stage_lib = C:/HDS/lab10_WriteBack_Stage/lab10_WriteBack_Stage_lib/hdl
+lab11_MemoryArbiter_lib = C:/HDS/lab11_MemoryArbiter/lab11_MemoryArbiter_lib/hdl
+lab11_RegisterTracker_lib = C:/HDS/lab11_RegisterTracker/lab11_RegisterTracker_lib/hdl
+lab12_Memory_lib = C:/HDS/lab12_Memory/lab12_Memory_lib/hdl
+lab7_lib = C:/HDS/lab7/lab7_lib
+lab8_new_lib = C:/HDS/lab8_new/lab8_new_lib/hdl
+lab9_lib = $HDS_PROJECT_DIR/lab11_RegisterTracker_lib/hdl
+lab9_new_lib = C:/HDS/lab9_new/lab9_new_lib/hdl
+[hds]
+lab10_memory_stage_lib = $HDS_PROJECT_DIR/lab10_memory_stage_lib/hds
+lab10_MergeAll_lib = $HDS_PROJECT_DIR/lab10_MergeAll_lib/hds
+lab10_RAM_lib = $HDS_PROJECT_DIR/lab10_RAM_lib/hds
+lab10_RegFile_lib = $HDS_PROJECT_DIR/lab10_RegFile_lib/hds
+lab10_RegFileCopy_lib = $HDS_PROJECT_DIR/lab10_RegFileCopy_lib/hds
+lab10_TopLevel_lib = $HDS_PROJECT_DIR/lab10_TopLevel_lib/hds
+lab10_WriteBack_Stage_lib = $HDS_PROJECT_DIR/lab10_WriteBack_Stage_lib/hds
+lab11_MemoryArbiter_lib = $HDS_PROJECT_DIR/lab11_MemoryArbiter_lib/hds
+lab11_RegisterTracker_lib = $HDS_PROJECT_DIR/lab11_RegisterTracker_lib/hds
+lab12_Memory_lib = $HDS_PROJECT_DIR/lab12_Memory_lib/hds
+lab7_lib = $HDS_PROJECT_DIR/lab7_lib/hds
+lab8_new_lib = $HDS_PROJECT_DIR/lab8_new_lib/hds
+lab9_lib = $HDS_PROJECT_DIR/lab9_lib/hds
+lab9_new_lib = $HDS_PROJECT_DIR/lab9_new_lib/hds
+[hds_settings]
+default_library = lab10_TopLevel_lib
+design_root = lab9_new_lib.execute_stage()execute_stage_struct.vhd
+project_description = ECE 4435 lab 10 merge everything together
+version = 2
+[library_files_inclusion]
+lab10_memory_stage_lib = specify
+lab10_MergeAll_lib = specify
+lab10_RAM_lib = specify
+lab10_RegFile_lib = specify
+lab10_RegFileCopy_lib = specify
+lab10_TopLevel_lib = all
+lab10_WriteBack_Stage_lib = specify
+lab11_MemoryArbiter_lib = specify
+lab11_RegisterTracker_lib = specify
+lab12_Memory_lib = specify
+lab7_lib = specify
+lab8_new_lib = specify
+lab9_lib = specify
+lab9_new_lib = specify
+[library_type]
+lab10_memory_stage_lib = regular
+lab10_MergeAll_lib = regular
+lab10_RAM_lib = regular
+lab10_RegFile_lib = regular
+lab10_RegFileCopy_lib = regular
+lab10_TopLevel_lib = regular
+lab10_WriteBack_Stage_lib = regular
+lab11_MemoryArbiter_lib = regular
+lab11_RegisterTracker_lib = regular
+lab12_Memory_lib = regular
+lab7_lib = regular
+lab8_new_lib = regular
+lab9_lib = regular
+lab9_new_lib = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp

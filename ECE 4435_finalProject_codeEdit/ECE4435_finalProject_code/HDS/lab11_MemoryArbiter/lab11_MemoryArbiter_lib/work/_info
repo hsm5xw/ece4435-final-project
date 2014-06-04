@@ -1,0 +1,59 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dC:/HDS/lab11_MemoryArbiter/lab11_MemoryArbiter_lib/work
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+T_opt
+!s110 1398266501
+VC`]E]B;INOgiFk3lU351g2
+04 13 6 work memoryarbiter struct 1
+=1-b8763fb5e08b-5357da84-34c-289c
+o-quiet -auto_acc_if_foreign -work lab11_MemoryArbiter_lib -L lab11_MemoryArbiter_lib
+n@_opt
+OL;O;10.2c;57
+Ememoryarbiter
+Z1 w1398234667
+Z2 DPx4 ieee 15 std_logic_arith 0 22 I`lKR?Ob>E^B_e2VdVLiQ0
+Z3 DPx3 std 6 textio 0 22 Y8d?=bLj9m4jiPLbo;>GT0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 1bm?@Gd;P>[>_lN8Do9gP3
+Z5 dC:/HDS/lab11_MemoryArbiter/lab11_MemoryArbiter_lib/work
+Z6 8C:/HDS/lab11_MemoryArbiter/lab11_MemoryArbiter_lib/hdl/memoryarbiter_struct.vhd
+Z7 FC:/HDS/lab11_MemoryArbiter/lab11_MemoryArbiter_lib/hdl/memoryarbiter_struct.vhd
+l0
+L13
+V<n@_Hf0:F62WmQlFNBZGP0
+Z8 OL;C;10.2c;57
+32
+Z9 !s110 1398234668
+Z10 !s108 1398234668.753000
+Z11 !s90 -work|lab11_MemoryArbiter_lib|-nologo|-f|C:/Users/Hong/AppData/Local/Temp/Files0|
+Z12 !s107 C:/HDS/lab11_MemoryArbiter/lab11_MemoryArbiter_lib/hdl/memoryarbiter_struct.vhd|
+Z13 o-work lab11_MemoryArbiter_lib -nologo
+Z14 tExplicit 1
+!s100 Q<_DYbHGAzSn0l5KO^8?l3
+!i10b 1
+!i111 0
+Astruct
+DEx4 work 13 memoryarbiter 0 22 <n@_Hf0:F62WmQlFNBZGP0
+R2
+R3
+R4
+l58
+L44
+VJ7D0@84ERH6d`7[9:^[P62
+R8
+32
+R9
+R10
+R11
+R12
+R13
+R14
+!s100 8O28]k5<hB5MZYnzPHR@01
+!i10b 1
+!i111 0

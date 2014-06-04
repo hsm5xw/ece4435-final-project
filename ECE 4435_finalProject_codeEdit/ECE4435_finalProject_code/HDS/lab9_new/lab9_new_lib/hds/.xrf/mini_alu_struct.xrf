@@ -1,0 +1,102 @@
+DESIGN mini_@a@l@u
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN mini_@a@l@u
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN mini_@a@l@u
+VIEW symbol.sb
+GRAPHIC 161,0 14 0 
+DESIGN mini_@a@l@u
+VIEW symbol.sb
+GRAPHIC 156,0 15 0 
+DESIGN mini_@a@l@u
+VIEW symbol.sb
+GRAPHIC 141,0 16 0 
+DESIGN mini_@a@l@u
+VIEW symbol.sb
+GRAPHIC 146,0 17 0 
+DESIGN mini_@a@l@u
+VIEW symbol.sb
+GRAPHIC 151,0 18 0 
+DESIGN mini_@a@l@u
+VIEW symbol.sb
+GRAPHIC 196,0 19 0 
+DESIGN mini_@a@l@u
+VIEW symbol.sb
+GRAPHIC 272,0 20 0 
+DESIGN mini_@a@l@u
+VIEW symbol.sb
+GRAPHIC 307,0 21 0 
+DESIGN mini_@a@l@u
+VIEW symbol.sb
+GRAPHIC 267,0 22 0 
+DESIGN mini_@a@l@u
+VIEW symbol.sb
+GRAPHIC 262,0 23 0 
+DESIGN mini_@a@l@u
+VIEW symbol.sb
+GRAPHIC 257,0 24 0 
+DESIGN mini_@a@l@u
+VIEW symbol.sb
+GRAPHIC 277,0 25 0 
+DESIGN mini_@a@l@u
+VIEW symbol.sb
+GRAPHIC 1,0 28 0 
+DESIGN mini_@a@l@u
+VIEW symbol.sb
+GRAPHIC 1,0 29 0 
+DESIGN mini_@a@l@u
+VIEW struct.bd
+NO_GRAPHIC 32
+DESIGN mini_@a@l@u
+VIEW struct.bd
+GRAPHIC 41,0 41 0 
+DESIGN mini_@a@l@u
+VIEW struct.bd
+NO_GRAPHIC 44
+DESIGN mini_@a@l@u
+VIEW struct.bd
+GRAPHIC 0,0 46 2 
+DESIGN mini_@a@l@u
+VIEW struct.bd
+GRAPHIC 613,0 51 0 
+DESIGN mini_@a@l@u
+VIEW struct.bd
+GRAPHIC 381,0 52 0 
+DESIGN mini_@a@l@u
+VIEW struct.bd
+NO_GRAPHIC 53
+DESIGN mini_@a@l@u
+VIEW struct.bd
+GRAPHIC 619,0 55 0 
+DESIGN mini_@a@l@u
+VIEW struct.bd
+NO_GRAPHIC 64
+DESIGN mini_@a@l@u
+VIEW struct.bd
+NO_GRAPHIC 65
+DESIGN mini_@a@l@u
+VIEW struct.bd
+GRAPHIC 158,0 67 0 
+DESIGN mini_@a@l@u
+VIEW struct.bd
+GRAPHIC 217,0 81 0 
+DESIGN mini_@a@l@u
+VIEW struct.bd
+GRAPHIC 577,0 273 0 
+DESIGN mini_@a@l@u
+VIEW struct.bd
+GRAPHIC 603,0 290 0 
+DESIGN mini_@a@l@u
+VIEW struct.bd
+GRAPHIC 235,0 293 0 
+DESIGN mini_@a@l@u
+VIEW struct.bd
+NO_GRAPHIC 296
+DESIGN mini_@a@l@u
+VIEW struct.bd
+GRAPHIC 619,0 300 0 
+DESIGN mini_@a@l@u
+VIEW struct.bd
+NO_GRAPHIC 302

@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dC:/HDS/lab12_Memory/lab12_Memory_lib/work
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+T_opt
+!s110 1398212797
+VZ;fak]H72AiEigHf^2g2J2
+04 4 8 work sram behavior 1
+=1-b8763fb5e08b-535708bd-b7-720
+o-quiet -auto_acc_if_foreign -work lab12_Memory_lib -L lab12_Memory_lib
+n@_opt
+OL;O;10.2c;57
+Esram
+Z1 w1398212449
+Z2 DPx4 ieee 15 std_logic_arith 0 22 I`lKR?Ob>E^B_e2VdVLiQ0
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 @_jbHPR7i^Jh?`2fDCO`m3
+Z4 DPx3 std 6 textio 0 22 Y8d?=bLj9m4jiPLbo;>GT0
+Z5 DPx4 ieee 14 std_logic_1164 0 22 1bm?@Gd;P>[>_lN8Do9gP3
+Z6 dC:/HDS/lab12_Memory/lab12_Memory_lib/work
+Z7 8C:/HDS/lab12_Memory/lab12_Memory_lib/hdl/SRAM_behavior.vhd
+Z8 FC:/HDS/lab12_Memory/lab12_Memory_lib/hdl/SRAM_behavior.vhd
+l0
+L18
+V[FQHI5:9lmglXe]O0WBi31
+Z9 OL;C;10.2c;57
+33
+Z10 !s110 1398212709
+Z11 !s108 1398212708.950000
+Z12 !s90 -work|lab12_Memory_lib|-nologo|-2008|-f|C:/Users/Hong/AppData/Local/Temp/Files0|
+Z13 !s107 C:/HDS/lab12_Memory/lab12_Memory_lib/hdl/SRAM_behavior.vhd|
+Z14 o-work lab12_Memory_lib -nologo -2008
+Z15 tExplicit 1
+!s100 Il@6QKEB:V3PmMYX4fKZ00
+!i10b 1
+!i111 0
+Abehavior
+R2
+R3
+R4
+R5
+DEx4 work 4 sram 0 22 [FQHI5:9lmglXe]O0WBi31
+l38
+L24
+VX=F_^N1JNLE;A[=7Xn^kU2
+R9
+33
+R10
+R11
+R12
+R13
+R14
+R15
+!s100 UJXoQXFz[4T0YhBdd^hl]1
+!i10b 1
+!i111 0

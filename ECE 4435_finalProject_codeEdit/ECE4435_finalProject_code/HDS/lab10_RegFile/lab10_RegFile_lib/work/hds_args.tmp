@@ -1,0 +1,1 @@
+ -L lab10_RegFile_lib -l transcript.txt -i -t ns -multisource_delay latest +typdelays lab10_RegFile_lib.RegisterFile(Structure)

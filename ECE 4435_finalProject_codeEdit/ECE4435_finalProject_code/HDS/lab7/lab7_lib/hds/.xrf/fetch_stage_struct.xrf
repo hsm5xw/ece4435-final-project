@@ -1,0 +1,200 @@
+DESIGN fetch_stage
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN fetch_stage
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN fetch_stage
+VIEW symbol.sb
+GRAPHIC 583,0 14 0 
+DESIGN fetch_stage
+VIEW symbol.sb
+GRAPHIC 142,0 15 0 
+DESIGN fetch_stage
+VIEW symbol.sb
+GRAPHIC 613,0 16 0 
+DESIGN fetch_stage
+VIEW symbol.sb
+GRAPHIC 132,0 17 0 
+DESIGN fetch_stage
+VIEW symbol.sb
+GRAPHIC 222,0 18 0 
+DESIGN fetch_stage
+VIEW symbol.sb
+GRAPHIC 147,0 19 0 
+DESIGN fetch_stage
+VIEW symbol.sb
+GRAPHIC 212,0 20 0 
+DESIGN fetch_stage
+VIEW symbol.sb
+GRAPHIC 137,0 21 0 
+DESIGN fetch_stage
+VIEW symbol.sb
+GRAPHIC 217,0 22 0 
+DESIGN fetch_stage
+VIEW symbol.sb
+GRAPHIC 122,0 23 0 
+DESIGN fetch_stage
+VIEW symbol.sb
+GRAPHIC 127,0 24 0 
+DESIGN fetch_stage
+VIEW symbol.sb
+GRAPHIC 152,0 25 0 
+DESIGN fetch_stage
+VIEW symbol.sb
+GRAPHIC 1,0 28 0 
+DESIGN fetch_stage
+VIEW symbol.sb
+GRAPHIC 1,0 29 0 
+DESIGN fetch_stage
+VIEW struct.bd
+NO_GRAPHIC 32
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 42,0 41 0 
+DESIGN fetch_stage
+VIEW struct.bd
+NO_GRAPHIC 44
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 0,0 47 2 
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 2425,0 52 0 
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 1662,0 53 0 
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 1626,0 54 0 
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 960,0 55 0 
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 2565,0 56 0 
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 2571,0 57 0 
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 1660,0 58 0 
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 1658,0 59 0 
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 2133,0 60 0 
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 1847,0 61 0 
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 1843,0 62 0 
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 1845,0 63 0 
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 1849,0 64 0 
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 1841,0 65 0 
+DESIGN fetch_stage
+VIEW struct.bd
+NO_GRAPHIC 66
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 714,0 68 0 
+DESIGN fetch_stage
+VIEW struct.bd
+NO_GRAPHIC 76
+LIBRARY lab7_lib
+DESIGN @fetch_@f@s@m
+VIEW @f@s@m
+GRAPHIC 2646,0 78 0 
+DESIGN fetch_stage
+VIEW struct.bd
+NO_GRAPHIC 87
+LIBRARY lab7_lib
+DESIGN fetch_stage
+VIEW struct.bd
+NO_GRAPHIC 89
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 2646,0 92 0 
+DESIGN fetch_stage
+VIEW struct.bd
+NO_GRAPHIC 95
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 218,0 97 0 
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 160,0 111 0 
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 1427,0 121 0 
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 1402,0 124 0 
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 1355,0 127 0 
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 1815,0 130 0 
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 2555,0 133 0 
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 1330,0 136 0 
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 2533,0 139 0 
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 658,0 149 0 
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 321,0 160 0 
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 270,0 172 0 
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 1551,0 184 0 
+DESIGN fetch_stage
+VIEW struct.bd
+NO_GRAPHIC 196
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 2646,0 198 0 
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 1730,0 200 0 
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 1752,0 201 0 
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 1784,0 202 0 
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 2065,0 203 0 
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 1796,0 204 0 
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 1802,0 205 0 
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 1628,0 206 0 
+DESIGN fetch_stage
+VIEW struct.bd
+GRAPHIC 714,0 210 0 
+DESIGN fetch_stage
+VIEW struct.bd
+NO_GRAPHIC 212

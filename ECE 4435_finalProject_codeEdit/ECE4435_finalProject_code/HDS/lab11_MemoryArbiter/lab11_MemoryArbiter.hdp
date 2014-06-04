@@ -1,0 +1,14 @@
+[ModelSim]
+lab11_MemoryArbiter_lib = $HDS_PROJECT_DIR\lab11_MemoryArbiter_lib\work
+[hdl]
+lab11_MemoryArbiter_lib = $HDS_PROJECT_DIR/lab11_MemoryArbiter_lib/hdl
+[hds]
+lab11_MemoryArbiter_lib = $HDS_PROJECT_DIR/lab11_MemoryArbiter_lib/hds
+[hds_settings]
+default_library = lab11_MemoryArbiter_lib
+project_description = ECE 4435 lab 11 Memory Arbiter
+version = 2
+[library_type]
+lab11_MemoryArbiter_lib = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp

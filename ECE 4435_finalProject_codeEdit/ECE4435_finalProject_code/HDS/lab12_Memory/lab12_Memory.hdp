@@ -1,0 +1,14 @@
+[ModelSim]
+lab12_Memory_lib = $HDS_PROJECT_DIR\lab12_Memory_lib\work
+[hdl]
+lab12_Memory_lib = $HDS_PROJECT_DIR/lab12_Memory_lib/hdl
+[hds]
+lab12_Memory_lib = $HDS_PROJECT_DIR/lab12_Memory_lib/hds
+[hds_settings]
+default_library = lab12_Memory_lib
+project_description = ECE 4435 lab 12 SRAM memory
+version = 2
+[library_type]
+lab12_Memory_lib = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp

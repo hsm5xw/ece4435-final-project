@@ -1,0 +1,75 @@
+DESIGN lab10_@write@back_@stage
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN lab10_@write@back_@stage
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN lab10_@write@back_@stage
+VIEW symbol.sb
+GRAPHIC 134,0 14 0 
+DESIGN lab10_@write@back_@stage
+VIEW symbol.sb
+GRAPHIC 129,0 15 0 
+DESIGN lab10_@write@back_@stage
+VIEW symbol.sb
+GRAPHIC 124,0 16 0 
+DESIGN lab10_@write@back_@stage
+VIEW symbol.sb
+GRAPHIC 154,0 17 0 
+DESIGN lab10_@write@back_@stage
+VIEW symbol.sb
+GRAPHIC 149,0 18 0 
+DESIGN lab10_@write@back_@stage
+VIEW symbol.sb
+GRAPHIC 144,0 19 0 
+DESIGN lab10_@write@back_@stage
+VIEW symbol.sb
+GRAPHIC 139,0 20 0 
+DESIGN lab10_@write@back_@stage
+VIEW symbol.sb
+GRAPHIC 1,0 23 0 
+DESIGN lab10_@write@back_@stage
+VIEW symbol.sb
+GRAPHIC 1,0 24 0 
+DESIGN lab10_@write@back_@stage
+VIEW struct.bd
+NO_GRAPHIC 27
+DESIGN lab10_@write@back_@stage
+VIEW struct.bd
+GRAPHIC 42,0 36 0 
+DESIGN lab10_@write@back_@stage
+VIEW struct.bd
+NO_GRAPHIC 39
+DESIGN lab10_@write@back_@stage
+VIEW struct.bd
+GRAPHIC 0,0 41 2 
+DESIGN lab10_@write@back_@stage
+VIEW struct.bd
+GRAPHIC 493,0 46 0 
+DESIGN lab10_@write@back_@stage
+VIEW struct.bd
+NO_GRAPHIC 47
+DESIGN lab10_@write@back_@stage
+VIEW struct.bd
+NO_GRAPHIC 57
+DESIGN lab10_@write@back_@stage
+VIEW struct.bd
+NO_GRAPHIC 58
+DESIGN lab10_@write@back_@stage
+VIEW struct.bd
+GRAPHIC 148,0 60 0 
+DESIGN lab10_@write@back_@stage
+VIEW struct.bd
+GRAPHIC 196,0 70 0 
+DESIGN lab10_@write@back_@stage
+VIEW struct.bd
+GRAPHIC 244,0 80 0 
+DESIGN lab10_@write@back_@stage
+VIEW struct.bd
+GRAPHIC 483,0 90 0 
+DESIGN lab10_@write@back_@stage
+VIEW struct.bd
+NO_GRAPHIC 93
+DESIGN lab10_@write@back_@stage
+VIEW struct.bd
+NO_GRAPHIC 96

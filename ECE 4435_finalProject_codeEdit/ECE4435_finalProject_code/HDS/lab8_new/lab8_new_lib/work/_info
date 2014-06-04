@@ -1,0 +1,376 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dC:/HDS/lab8_new/lab8_new_lib/work
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+T_opt
+VBCf_:M;QTaP7ijF5_gUCj1
+04 7 9 work decoder structure 1
+=1-b8763fb5e08b-5354961a-6c-21b4
+Z1 o-quiet -auto_acc_if_foreign -work lab8_new_lib -L lab8_new_lib
+n@_opt
+Z2 OL;O;10.2c;57
+Z3 dC:/HDS/lab8_new/lab8_new_lib/work
+!s110 1398052379
+T_opt1
+V`A3`0O@DzmN=ZQ3IekZEh0
+04 12 9 work decode_stage structure 1
+=1-b8763fb5e08b-5356ff98-35a-1c88
+R1
+n@_opt1
+R2
+R3
+!s110 1398210457
+T_opt2
+Ve`3Z7X<<QKm0g^;j<Hhne2
+04 7 8 work alu_rom behavior 1
+=1-b8763fb5e08b-53445e5d-f0-223c
+R1
+n@_opt2
+R2
+R3
+!s110 1396989533
+Ealu_rom
+Z4 w1398656784
+Z5 DPx4 ieee 15 std_logic_arith 0 22 I`lKR?Ob>E^B_e2VdVLiQ0
+Z6 DPx3 std 6 textio 0 22 Y8d?=bLj9m4jiPLbo;>GT0
+Z7 DPx4 ieee 14 std_logic_1164 0 22 1bm?@Gd;P>[>_lN8Do9gP3
+R3
+Z8 8C:/HDS/lab8_new/lab8_new_lib/hdl/ALU_ROM_Behavior.vhd
+Z9 FC:/HDS/lab8_new/lab8_new_lib/hdl/ALU_ROM_Behavior.vhd
+l0
+L15
+V`1Qh6jGHD0BFV=i6B4CB42
+Z10 OL;C;10.2c;57
+33
+Z11 !s110 1398656790
+Z12 !s108 1398656790.811000
+Z13 !s90 -work|lab8_new_lib|-nologo|-2008|-f|C:/Users/Hong/AppData/Local/Temp/Files5|
+Z14 !s107 C:/HDS/lab8_new/lab8_new_lib/hdl/ALU_ROM_Behavior.vhd|
+Z15 o-work lab8_new_lib -nologo -2008
+Z16 tExplicit 1
+!s100 W=1JVoN1S=@anO4TIWPhG3
+!i10b 1
+!i111 0
+Abehavior
+R5
+R6
+R7
+Z17 DEx4 work 7 alu_rom 0 22 `1Qh6jGHD0BFV=i6B4CB42
+l29
+L24
+V^T@Za5TBnnmNHWYOz?BzO1
+R10
+33
+R11
+R12
+R13
+R14
+R15
+R16
+!s100 fQhQTOUIm[]i2U8@ZT=8C0
+!i10b 1
+!i111 0
+Edecode_rom
+Z18 w1398775621
+R5
+R6
+R7
+R3
+Z19 8C:/HDS/lab8_new/lab8_new_lib/hdl/Decode_ROM_Behavior.vhd
+Z20 FC:/HDS/lab8_new/lab8_new_lib/hdl/Decode_ROM_Behavior.vhd
+l0
+L23
+V;Un]iUedEAanSN:h45hWB1
+R10
+33
+Z21 !s108 1398775626.766000
+R13
+Z22 !s107 C:/HDS/lab8_new/lab8_new_lib/hdl/Decode_ROM_Behavior.vhd|
+R15
+R16
+!s100 KLZ0@glV_;]A`f0XLhX6D1
+!s110 1398775626
+!i10b 1
+!i111 0
+Abehavior
+R5
+R6
+R7
+Z23 DEx4 work 10 decode_rom 0 22 ;Un]iUedEAanSN:h45hWB1
+l34
+L30
+VlTL?3mZMA[WdVcG?E9=dN1
+R10
+33
+R21
+R13
+R22
+R15
+R16
+!s100 F;_gj5k1N7IoGjbUgPFYZ1
+!s110 1398775627
+!i10b 1
+!i111 0
+Edecode_stage
+Z24 w1398651583
+R5
+R6
+R7
+R3
+Z25 8C:/HDS/lab8_new/lab8_new_lib/hdl/Decoder_Structure.vhd
+Z26 FC:/HDS/lab8_new/lab8_new_lib/hdl/Decoder_Structure.vhd
+l0
+L14
+Va^Ha2X@OM7`gD@X_MTRY41
+!s100 gY28=Be8E3?n3GhB;ZQF=0
+R10
+33
+Z27 !s110 1398775644
+!i10b 1
+Z28 !s108 1398775644.493000
+R13
+Z29 !s107 C:/HDS/lab8_new/lab8_new_lib/hdl/Decoder_Structure.vhd|
+!i111 0
+R15
+R16
+Astructure
+Z30 DEx4 work 10 simplemux4 0 22 OWe?T_lYUkWh=inWe:moL0
+Z31 DEx4 work 10 simplemux2 0 22 l]959;1NJ;]DPOjSQ?kSD3
+R23
+R17
+Z32 DEx4 work 3 reg 0 22 BY[i]aeFeUZOeAPCLofm_2
+R5
+R6
+R7
+Z33 DEx4 work 12 decode_stage 0 22 a^Ha2X@OM7`gD@X_MTRY41
+l94
+L45
+Z34 V;k`j8l_2nIhoPcQY]TJFW0
+Z35 !s100 Id8;6YBjFZ5LM>>HC48942
+R10
+33
+R27
+!i10b 1
+R28
+R13
+R29
+!i111 0
+R15
+R16
+Edecoder
+Z36 w1398052279
+R5
+R6
+R7
+R3
+R25
+R26
+l0
+L14
+VnjPzfg:9Ih0M1kz<z`G4:3
+R10
+33
+Z37 !s110 1398052285
+Z38 !s108 1398052285.154000
+Z39 !s90 -work|lab8_new_lib|-nologo|-2008|-f|C:/Users/Hong/AppData/Local/Temp/Files0|
+Z40 !s107 C:/HDS/lab8_new/lab8_new_lib/hdl/Decoder_Structure.vhd|
+R15
+R16
+!s100 gLgd19HXf@[1kI5:lTZfW1
+!i10b 1
+!i111 0
+Astructure
+R30
+Z41 DEx4 work 10 simplemux3 0 22 ^zGZ^k]ghDk[[ajVEAMWj0
+R31
+DEx4 work 10 decode_rom 0 22 DfYSK9YQ_QRcAdE`Nn;Jb0
+DEx4 work 7 alu_rom 0 22 7`@cJ5B3CHENdeM6?=Y]W3
+DEx4 work 3 reg 0 22 eSYXa3z9AkgK;VnZ9Y9HI1
+R5
+R6
+R7
+DEx4 work 7 decoder 0 22 njPzfg:9Ih0M1kz<z`G4:3
+l91
+L44
+V^DlW`L@N1>ZM9kZbXQ@TO2
+R10
+33
+R37
+R38
+R39
+R40
+R15
+R16
+!s100 n<_7ZlzR?W2cAJBan1hZE1
+!i10b 1
+!i111 0
+Ereg
+Z42 w1398229362
+R5
+R6
+R7
+R3
+Z43 8C:/HDS/lab8_new/lab8_new_lib/hdl/Reg_Behavior.vhd
+Z44 FC:/HDS/lab8_new/lab8_new_lib/hdl/Reg_Behavior.vhd
+l0
+L15
+VBY[i]aeFeUZOeAPCLofm_2
+R10
+33
+Z45 !s110 1398229367
+Z46 !s108 1398229367.248000
+R39
+Z47 !s107 C:/HDS/lab8_new/lab8_new_lib/hdl/Reg_Behavior.vhd|
+R15
+R16
+!s100 m7>YQcKLOQUgF6z`5WfmW1
+!i10b 1
+!i111 0
+Abehavior
+R5
+R6
+R7
+R32
+l23
+L22
+VZT7gOUX65CBk:Ba<2E?BZ1
+R10
+33
+R45
+R46
+R39
+R47
+R15
+R16
+!s100 473ED@dXJzOO5bCf>fjLY3
+!i10b 1
+!i111 0
+Esimplemux2
+Z48 w1396405706
+R5
+R6
+R7
+R3
+Z49 8C:/HDS/lab8_new/lab8_new_lib/hdl/SimpleMux2_Behavior.vhd
+Z50 FC:/HDS/lab8_new/lab8_new_lib/hdl/SimpleMux2_Behavior.vhd
+l0
+L15
+Vl]959;1NJ;]DPOjSQ?kSD3
+R10
+33
+Z51 !s110 1396405711
+Z52 !s108 1396405711.249000
+R39
+Z53 !s107 C:/HDS/lab8_new/lab8_new_lib/hdl/SimpleMux2_Behavior.vhd|
+R15
+R16
+!s100 F02VKlOWC9lKGUKaN3NaI2
+!i10b 1
+!i111 0
+Abehavior
+R5
+R6
+R7
+R31
+l25
+L24
+V809?9F5=[gR[QIcDd<3?50
+R10
+33
+R51
+R52
+R39
+R53
+R15
+R16
+!s100 ?ii<aTmdNiL]:0X9SgaAe3
+!i10b 1
+!i111 0
+Esimplemux3
+Z54 w1396405647
+R5
+R6
+R7
+R3
+Z55 8C:/HDS/lab8_new/lab8_new_lib/hdl/SimpleMux3_Behavior.vhd
+Z56 FC:/HDS/lab8_new/lab8_new_lib/hdl/SimpleMux3_Behavior.vhd
+l0
+L14
+V^zGZ^k]ghDk[[ajVEAMWj0
+R10
+33
+Z57 !s110 1396405655
+Z58 !s108 1396405655.035000
+R39
+Z59 !s107 C:/HDS/lab8_new/lab8_new_lib/hdl/SimpleMux3_Behavior.vhd|
+R15
+R16
+!s100 QOFX=nF05@9W=TFo]P6nK3
+!i10b 1
+!i111 0
+Abehavior
+R5
+R6
+R7
+R41
+l24
+L23
+VF4k4>O6M4:]X;O]`iQPSJ1
+R10
+33
+R57
+R58
+R39
+R59
+R15
+R16
+!s100 4f9c0mc9877[><4zK<e4D2
+!i10b 1
+!i111 0
+Esimplemux4
+Z60 w1396405600
+R5
+R6
+R7
+R3
+Z61 8C:/HDS/lab8_new/lab8_new_lib/hdl/SimpleMux4_Behavior.vhd
+Z62 FC:/HDS/lab8_new/lab8_new_lib/hdl/SimpleMux4_Behavior.vhd
+l0
+L19
+VOWe?T_lYUkWh=inWe:moL0
+R10
+33
+Z63 !s110 1396405728
+Z64 !s108 1396405728.310000
+R39
+Z65 !s107 C:/HDS/lab8_new/lab8_new_lib/hdl/SimpleMux4_Behavior.vhd|
+R15
+R16
+!s100 :Y3LijXf4N3Hgoch;GEhC2
+!i10b 1
+!i111 0
+Abehavior
+R5
+R6
+R7
+R30
+l30
+L29
+Vl=l`IcfX8LPIT5:?5aRmk3
+R10
+33
+R63
+R64
+R39
+R65
+R15
+R16
+!s100 S;eU=C4Y`eA7d0]k^BgO[2
+!i10b 1
+!i111 0

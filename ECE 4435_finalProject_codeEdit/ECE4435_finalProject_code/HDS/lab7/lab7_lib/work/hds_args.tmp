@@ -1,0 +1,1 @@
+ -L lab7_lib -l transcript.txt -i -t ns -multisource_delay latest +typdelays lab7_lib.fetch_stage(struct)

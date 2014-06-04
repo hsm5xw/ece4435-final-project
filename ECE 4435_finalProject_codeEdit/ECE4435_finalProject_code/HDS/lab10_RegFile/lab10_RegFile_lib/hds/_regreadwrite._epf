@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom Mixed
+DEFAULT_FILE atom RegReadWrite_Mixed.vhd

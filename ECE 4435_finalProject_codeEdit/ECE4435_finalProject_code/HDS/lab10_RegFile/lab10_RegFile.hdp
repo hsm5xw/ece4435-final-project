@@ -1,0 +1,14 @@
+[ModelSim]
+lab10_RegFile_lib = $HDS_PROJECT_DIR\lab10_RegFile_lib\work
+[hdl]
+lab10_RegFile_lib = $HDS_PROJECT_DIR/lab10_RegFile_lib/hdl
+[hds]
+lab10_RegFile_lib = $HDS_PROJECT_DIR/lab10_RegFile_lib/hds
+[hds_settings]
+default_library = lab10_RegFile_lib
+project_description = ECE 4435 lab 10 Register File
+version = 2
+[library_type]
+lab10_RegFile_lib = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp

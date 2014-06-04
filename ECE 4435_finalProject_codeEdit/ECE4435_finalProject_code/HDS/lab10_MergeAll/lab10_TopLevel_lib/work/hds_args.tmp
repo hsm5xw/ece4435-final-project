@@ -1,0 +1,1 @@
+ -L lab10_TopLevel_lib -L lab7_lib -L lab8_new_lib -L lab9_new_lib -L lab10_memory_stage_lib -L lab10_WriteBack_Stage_lib -L lab11_MemoryArbiter_lib -L lab10_RegFile_lib -L lab12_Memory_lib -L lab11_RegisterTracker_lib -l transcript.txt -i -t ns -multisource_delay latest +typdelays lab10_TopLevel_lib.TopLevel(struct)

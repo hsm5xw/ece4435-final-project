@@ -1,0 +1,1 @@
+ -L lab10_memory_stage_lib -l transcript.txt -i -t ns -multisource_delay latest +typdelays lab10_memory_stage_lib.memory_stage(struct)

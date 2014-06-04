@@ -1,0 +1,189 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dC:/HDS/lab10_RegFile/lab10_RegFile_lib/work
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+T_opt
+VgGFD916?[jAGY1N>4G:U@2
+04 12 9 work registerfile structure 1
+=1-b8763fb5e08b-5345def9-35e-4fc
+o-quiet -auto_acc_if_foreign -work lab10_RegFile_lib -L lab10_RegFile_lib
+n@_opt
+OL;O;10.2c;57
+Z1 dC:/HDS/lab10_RegFile/lab10_RegFile_lib/work
+!s110 1397087994
+Edecoder
+Z2 w1398438608
+Z3 DPx4 ieee 11 numeric_std 0 22 WES[o8HS0jHV[MIXQk2Ha1
+Z4 DPx4 ieee 15 std_logic_arith 0 22 I`lKR?Ob>E^B_e2VdVLiQ0
+Z5 DPx3 std 6 textio 0 22 Y8d?=bLj9m4jiPLbo;>GT0
+Z6 DPx4 ieee 14 std_logic_1164 0 22 1bm?@Gd;P>[>_lN8Do9gP3
+R1
+Z7 8C:/HDS/lab10_RegFile/lab10_RegFile_lib/hdl/Decoder_Behavior.vhd
+Z8 FC:/HDS/lab10_RegFile/lab10_RegFile_lib/hdl/Decoder_Behavior.vhd
+l0
+L15
+VUM@9`Xo599fBOJ4l@PFI63
+Z9 OL;C;10.2c;57
+33
+Z10 !s110 1398438614
+Z11 !s108 1398438614.305000
+Z12 !s90 -work|lab10_RegFile_lib|-nologo|-2008|-f|C:/Users/Hong/AppData/Local/Temp/Files0|
+Z13 !s107 C:/HDS/lab10_RegFile/lab10_RegFile_lib/hdl/Decoder_Behavior.vhd|
+Z14 o-work lab10_RegFile_lib -nologo -2008
+Z15 tExplicit 1
+!s100 ^Hb29GB9ZB;8;5CJUbnnH3
+!i10b 1
+!i111 0
+Abehavior
+R3
+R4
+R5
+R6
+Z16 DEx4 work 7 decoder 0 22 UM@9`Xo599fBOJ4l@PFI63
+l24
+L23
+VX`6HDYnHhWA3k3YkZ2VF=3
+!s100 <X>DM]=k5YgnOBG<zh=HT2
+R9
+33
+R10
+R11
+R12
+R13
+R14
+R15
+!i10b 1
+!i111 0
+Ereg
+Z17 w1398264280
+R4
+R5
+R6
+R1
+Z18 8C:/HDS/lab10_RegFile/lab10_RegFile_lib/hdl/Reg_Behavior.vhd
+Z19 FC:/HDS/lab10_RegFile/lab10_RegFile_lib/hdl/Reg_Behavior.vhd
+l0
+L14
+Vo7]l`8Jg902PWbWXkG;=]2
+R9
+33
+Z20 !s110 1398264287
+Z21 !s108 1398264287.565000
+R12
+Z22 !s107 C:/HDS/lab10_RegFile/lab10_RegFile_lib/hdl/Reg_Behavior.vhd|
+R14
+R15
+!s100 @1B3iUZ:2W7OJWZMZ=U=81
+!i10b 1
+!i111 0
+Abehavior
+R4
+R5
+R6
+Z23 DEx4 work 3 reg 0 22 o7]l`8Jg902PWbWXkG;=]2
+l22
+L21
+V:Si;m0B9<KWa1bh;oE0:B1
+R9
+33
+R20
+R21
+R12
+R22
+R14
+R15
+!s100 bSPlOK6c=lSV=J9Ld?7ae1
+!i10b 1
+!i111 0
+Eregisterfile
+Z24 w1397088388
+R4
+R5
+R6
+R1
+Z25 8C:/HDS/lab10_RegFile/lab10_RegFile_lib/hdl/RegisterFile_Structure.vhd
+Z26 FC:/HDS/lab10_RegFile/lab10_RegFile_lib/hdl/RegisterFile_Structure.vhd
+l0
+L14
+V>X]3eWV2;oK@SdLaVz<<a0
+!s100 WR0Za`SWb_HcahjYT0dDU3
+R9
+33
+Z27 !s110 1398438647
+!i10b 1
+Z28 !s108 1398438646.968000
+R12
+Z29 !s107 C:/HDS/lab10_RegFile/lab10_RegFile_lib/hdl/RegisterFile_Structure.vhd|
+!i111 0
+R14
+R15
+Astructure
+Z30 DEx4 work 12 regreadwrite 0 22 LelGm>Ia4lGehM>ATbhEZ2
+R3
+R16
+R4
+R5
+R6
+Z31 DEx4 work 12 registerfile 0 22 >X]3eWV2;oK@SdLaVz<<a0
+l38
+L30
+Z32 VKmOjK>]Sc]hFcb:P@kzOP3
+Z33 !s100 OXoZc?dLX@iEGKzU=27:21
+R9
+33
+R27
+!i10b 1
+R28
+R12
+R29
+!i111 0
+R14
+R15
+Eregreadwrite
+Z34 w1397047633
+R4
+R5
+R6
+R1
+Z35 8C:/HDS/lab10_RegFile/lab10_RegFile_lib/hdl/RegReadWrite_Mixed.vhd
+Z36 FC:/HDS/lab10_RegFile/lab10_RegFile_lib/hdl/RegReadWrite_Mixed.vhd
+l0
+L14
+VLelGm>Ia4lGehM>ATbhEZ2
+R9
+33
+Z37 !s110 1398264317
+Z38 !s108 1398264317.435000
+R12
+Z39 !s107 C:/HDS/lab10_RegFile/lab10_RegFile_lib/hdl/RegReadWrite_Mixed.vhd|
+R14
+R15
+!s100 ;1=nfNVkfX^D=CPLO`V2?0
+!i10b 1
+!i111 0
+Amixed
+R23
+R4
+R5
+R6
+R30
+l27
+L23
+VOV[<0JA4cm@oA[@E8UVIL1
+R9
+33
+R37
+R38
+R12
+R39
+R14
+R15
+!s100 T3^SJmIkdG]k9Y3Dc]zZ13
+!i10b 1
+!i111 0

@@ -1,0 +1,1 @@
+ -L lab10_WriteBack_Stage_lib -l transcript.txt -i -t ns -multisource_delay latest +typdelays lab10_WriteBack_Stage_lib.lab10_WriteBack_Stage(struct)

@@ -1,0 +1,16 @@
+[ModelSim]
+lab7_lib = $HDS_PROJECT_DIR\lab7_lib\work
+[hdl]
+lab7_lib = $HDS_PROJECT_DIR/lab7_lib/hdl
+[hds]
+lab7_lib = $HDS_PROJECT_DIR/lab7_lib/hds
+[hds_settings]
+default_library = lab7_lib
+project_description = ECE 4435 lab 7_Fetch stage
+version = 2
+[library_files_inclusion]
+lab7_lib = specify
+[library_type]
+lab7_lib = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp

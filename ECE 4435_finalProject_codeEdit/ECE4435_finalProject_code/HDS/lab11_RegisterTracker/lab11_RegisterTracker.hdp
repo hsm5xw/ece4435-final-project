@@ -1,0 +1,14 @@
+[ModelSim]
+lab11_RegisterTracker_lib = $HDS_PROJECT_DIR\lab11_RegisterTracker_lib\work
+[hdl]
+lab11_RegisterTracker_lib = $HDS_PROJECT_DIR\lab11_RegisterTracker_lib\hdl
+[hds]
+lab11_RegisterTracker_lib = $HDS_PROJECT_DIR\lab11_RegisterTracker_lib\hds
+[hds_settings]
+default_library = lab11_RegisterTracker_lib
+project_description = ECE 4435 lab 11 Register Tracker
+version = 2
+[library_type]
+lab11_RegisterTracker_lib = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp

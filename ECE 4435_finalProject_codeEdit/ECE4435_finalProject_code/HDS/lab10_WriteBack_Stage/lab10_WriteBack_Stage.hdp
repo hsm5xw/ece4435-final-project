@@ -1,0 +1,14 @@
+[ModelSim]
+lab10_WriteBack_Stage_lib = $HDS_PROJECT_DIR\lab10_WriteBack_Stage_lib\work
+[hdl]
+lab10_WriteBack_Stage_lib = $HDS_PROJECT_DIR\lab10_WriteBack_Stage_lib\hdl
+[hds]
+lab10_WriteBack_Stage_lib = $HDS_PROJECT_DIR\lab10_WriteBack_Stage_lib\hds
+[hds_settings]
+default_library = lab10_WriteBack_Stage_lib
+project_description = ECE 4435 lab 10 Write Back Stage
+version = 2
+[library_type]
+lab10_WriteBack_Stage_lib = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp
